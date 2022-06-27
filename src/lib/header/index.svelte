@@ -13,7 +13,7 @@
 
 <header>
 	<div class="corner" class:active={$page.url.pathname === '/'}>
-		<a sveltekit:prefetch href="/">
+		<a sveltekit:prefetch href="/" on:click={mobileNavOpened ? tapMobileNav() : {}}>
 			<img id="logo" src="/images/logo.png" alt="baturalp-logo" />
 		</a>
 	</div>
