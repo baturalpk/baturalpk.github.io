@@ -1,0 +1,68 @@
+[
+	{
+		"title": "Ridesharing Services",
+		"description": "",
+		"tech": "Protocol Buffers, gRPC, Docker, MongoDB, Redis (Geospatial indexes), Go, Python, .NET/C#",
+		"external_links": [
+			{
+				"key": "Source code repository",
+				"value": "https://github.com/baturalpk/ridesharing-services.git"
+			}
+		]
+	},
+	{
+		"title": "Photo Bucket",
+		"description": "",
+		"tech": "Go (fiber, ent-go, viper), AWS S3, PostgreSQL, Docker, JWT",
+		"external_links": [
+			{
+				"key": "Source code repository",
+				"value": "https://github.com/baturalpk/photo-bucket.git"
+			}
+		]
+	},
+	{
+		"title": "Exportify",
+		"description": "",
+		"tech": "Go, Spotify API, OAuth2",
+		"external_links": [
+			{
+				"key": "Source code repository",
+				"value": "https://github.com/baturalpk/exportify.git"
+			}
+		]
+	},
+	{
+		"title": "API Gateway",
+		"description": "",
+		"tech": "Go (std, gin, viper)",
+		"external_links": [
+			{
+				"key": "Source code repository",
+				"value": "https://github.com/baturalpk/apigateway.git"
+			}
+		]
+	},
+	{
+		"title": "Auth Service",
+		"description": "",
+		"tech": "TypeScript (Express.js, Prisma), PostgreSQL, Redis (Sets, Hashes) for sessions",
+		"external_links": [
+			{
+				"key": "Source code repository",
+				"value": "https://github.com/baturalpk/auth-service.git"
+			}
+		]
+	},
+	{
+		"title": "Blocking TCP Sockets",
+		"description": "",
+		"tech": "C, POSIX, CMake",
+		"external_links": [
+			{
+				"key": "Source code repository",
+				"value": "https://github.com/baturalpk/blocking-tcp-sockets.git"
+			}
+		]
+	}
+]
